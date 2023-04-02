@@ -1,3 +1,9 @@
+This repo is fork of LouisYLWang/SimpleDB.  
+Some modification of source and adding dependent libs jars are done for making runnable by ryo_grid.  
+Passings of unit tests are confirmed on InteliJ Idea 2022.1.3
+
+----
+
 SimpleDB architecture - course project report of CSE 444
 
  <div><img src="./simpleDB architecture.png" alt="img" style="zoom: 25%;" /></div>
